@@ -54,7 +54,7 @@ One time only:
 
 # <A NAME="unit1:">Unit 1: Introduction
 
-## Class 1 - Introduction (9/6/17)
+## Class 1 - Introduction (9/6/18)
 ### Learning Objectives
 
 * Be familiar with course philosophy, logic & structure
@@ -74,8 +74,7 @@ Read/watch:
   * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
 
 #### Due: Assignment 1 - Set up
-
-## Class 3 - Data Sources (9/13/17)
+## Class 3 - Data Sources (9/13/18)
 
 * Be familiar with a range of data sources, formats and extraction processes
 * Be familiar with R & Github & markdown
@@ -91,7 +90,7 @@ Swirl:
 
 # <A NAME="unit2">Unit 2: Data Sources & their Manipulation
 
-## Class 4 - Data Wrangling (9/18/17)
+## Class 4 - Data Wrangling (9/18/18)
 
 ### Learning Objectives:
 
@@ -103,7 +102,7 @@ Read:
 * [Prinsloo, P., & Slade, S. (2017). Ethics and Learning Analytics: Charting the (Un)Charted. In C. Lang, G. Siemens, A. F. Wise, & D. Gaševic (Eds.), The Handbook of Learning Analytics (1st ed., pp. 49–57). Vancouver, BC: Society for Learning Analytics Research.](https://solaresearch.org/hla-17/hla17-chapter4/)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  
-## Class 5 - Data Wrangling (9/20/17)
+## Class 5 - Data Wrangling (9/20/18)
 
 ### Learning Objectives:
 
@@ -116,7 +115,7 @@ Read:
 
 * [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
-## Class 6 - Data Wrangling (9/25/17)
+## Class 6 - Data Wrangling (9/25/18)
 
 Read:
 * [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
