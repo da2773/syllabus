@@ -61,7 +61,7 @@ One time only:
 * Install and be familiar with the software to be used in the course
 * Appreciate the importance of tightly defining educational goals
 
-## Class 2 - LA, EDM and the Learning Sciences (9/11/17)
+## Class 2 - LA, EDM and the Learning Sciences (9/11/18)
 
 ### Learning Objectives
 
